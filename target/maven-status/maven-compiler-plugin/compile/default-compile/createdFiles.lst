@@ -1,0 +1,7 @@
+Modelo\Cliente.class
+Modelo\Pelicula.class
+Controlador\TiendaController.class
+Modelo\Camara.class
+Main\Main.class
+Modelo\Alquiler.class
+Vista\TiendaView.class
